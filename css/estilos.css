@@ -1,0 +1,18 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: helvetica;
+    background-image: url(https://wallpapershome.com/images/pages/pic_h/16032.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    color: white;
+}
+
+nav
+{
+    background-color: lightsalmon;
+    padding: 0px;
+    color: maroon;
+}
